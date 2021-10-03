@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Look at my [Portfolio](https://portfolio.russi.ovh/) or my [BusinessCard](https://businesscard.russi.ovh/)
+
 <!--
 **pingmyheart/pingmyheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
