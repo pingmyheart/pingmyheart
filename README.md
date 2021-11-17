@@ -2,6 +2,11 @@
 
 Look at my [Portfolio](https://portfolio.russi.ovh/) or my [BusinessCard](https://businesscard.russi.ovh/)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertomanfreda&layout=compact&langs_count=10&count_private=true&show_icons=true&theme=chartreuse-dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertomanfreda&count_private=true&show_icons=true&theme=chartreuse-dark)
+
 <!--
 **pingmyheart/pingmyheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
