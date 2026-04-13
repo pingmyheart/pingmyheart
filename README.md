@@ -85,15 +85,7 @@
 
 ---
 
-## Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pingmyheart&theme=tokyonight" />
-</p>
-
----
-
-### Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pingmyheart&theme=dracula&hide_border=true" alt="GitHub Contribution Graph" /></p>
