@@ -38,6 +38,7 @@
   &rarr; [Liceo Scientifico G.B.Vico](https://www.liceogbvico.gov.it/) \(2014-2019)
 
 ## Experience
+
 - 💼 **Software Developer Engineer**
   &rarr; [ALTEN](https://www.alten.it) \(2021-Present)
 - 💼 **DevSecOps Engineer**
@@ -59,6 +60,15 @@
 - 💼 **Android Developer**
   &rarr; [TIM](https://www.tim.it) \(2020)
 
+## Certifications
+
+- 🎓 **LFS158: Introduction to Kubernetes**
+  &rarr; [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
+- 🎓 **CKAD: Certified Kubernetes Application Developer**
+  &rarr; [Certificate](https://www.credly.com/badges/25c76067-7df1-4178-a9c2-62f9f3ec4af4/public_url)
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -72,15 +82,6 @@
 ### Tools
 
 ![Tools](https://skillicons.dev/icons?i=ansible,arduino,clion,cmake,discord,docker,git,gitlab,github,githubactions,grafana,idea,linux,nginx,notion,postman,prometheus,pycharm,raspberrypi,stackoverflow,ubuntu,vim,vscode)
-
----
-
-## Certifications
-
-- 🎓 **LFS158: Introduction to Kubernetes**
-  &rarr; [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
-- 🎓 **CKAD: Certified Kubernetes Application Developer**
-  &rarr; [Certificate](https://www.credly.com/badges/25c76067-7df1-4178-a9c2-62f9f3ec4af4/public_url)
 
 ---
 
