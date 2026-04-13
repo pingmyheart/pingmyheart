@@ -38,10 +38,8 @@
 
 ## Certifications
 
-- 🎓 **LFS158: Introduction to Kubernetes
-  ** - [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
-- 🎓 **CKAD: Certified Kubernetes Application Developer
-  ** - [Certificate](https://www.credly.com/badges/25c76067-7df1-4178-a9c2-62f9f3ec4af4/public_url)
+- 🎓 **LFS158: Introduction to Kubernetes** - [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
+- 🎓 **CKAD: Certified Kubernetes Application Developer** - [Certificate](https://www.credly.com/badges/25c76067-7df1-4178-a9c2-62f9f3ec4af4/public_url)
 
 ---
 
