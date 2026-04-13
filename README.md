@@ -61,15 +61,15 @@
 
 ## Tech Stack
 
-### 💻 Languages
+### Languages
 
 ![Languages](https://skillicons.dev/icons?i=java,py,lua,bash,latex,regex,md)
 
-### ⚙️ Frameworks
+### Frameworks
 
 ![Frameworks](https://skillicons.dev/icons?i=spring,flask,kafka,hibernate,kubernetes,rabbitmq,redis,mongodb,mysql,postgres)
 
-### 🧰 Tools
+### Tools
 
 ![Tools](https://skillicons.dev/icons?i=ansible,arduino,clion,cmake,discord,docker,git,gitlab,github,githubactions,grafana,idea,linux,nginx,notion,postman,prometheus,pycharm,raspberrypi,stackoverflow,ubuntu,vim,vscode)
 
