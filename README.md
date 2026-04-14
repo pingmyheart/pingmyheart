@@ -62,10 +62,10 @@
 
 ## Certifications
 
-- 🎓 **LFS158: Introduction to Kubernetes**
-  &rarr; [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
 - 🎓 **CKAD: Certified Kubernetes Application Developer**
   &rarr; [Certificate](https://www.credly.com/badges/25c76067-7df1-4178-a9c2-62f9f3ec4af4/public_url)
+- 🎓 **LFS158: Introduction to Kubernetes**
+  &rarr; [Certificate](https://www.credly.com/badges/ea4fbc48-688d-4113-a803-78d52159119a/public_url)
 
 ---
 
@@ -85,7 +85,15 @@
 
 ---
 
-## Contribution Graph
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pingmyheart&theme=tokyonight" />
+</p>
+
+---
+
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pingmyheart&theme=dracula&hide_border=true" alt="GitHub Contribution Graph" /></p>
